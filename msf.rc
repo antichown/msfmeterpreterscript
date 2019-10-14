@@ -3,7 +3,6 @@ clear
 banner
 
 <ruby>
-require 'rss'
 require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
