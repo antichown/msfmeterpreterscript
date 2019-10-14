@@ -1,4 +1,4 @@
-# Metapsloit Update Meterpreter Script 
+# Metasploit Update Meterpreter Script 
 
 # Install:
 
